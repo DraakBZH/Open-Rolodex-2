@@ -3,22 +3,21 @@ Open Rolodex 2 aims to bring the features of v1 in a different language and web 
 
 ## Tasks
 ### Learning
-[] Learning Git
-[] Learning React
-[] Learning Typescript
+- [ ] Learning Git
+- [ ] Learning React
+- [ ] Learning Typescript
 
 ### Boilerplate
-[] Create Boilerplate
-[] Config Prettier
-[] Find a Unit test Solution and learn it
-[] Pre-commit
-[] Coding Convention
-[] Documentation (Javadoc like ?)
+- [ ] Create Boilerplate
+- [ ] Config Prettier
+- [ ] Find a Unit test Solution and learn it
+- [ ] Pre-commit
+- [ ] Coding Convention
+- [ ] Documentation (Javadoc like ?)
 
 ### Project
-[] List Project V1 Feature
-[] List New Features
-[] Design Data structure
-[] Make a script to update V1 to V2 (data)
-[] prioritize features
-
+- [ ] List Project V1 Feature
+- [ ] List New Features
+- [ ] Design Data structure
+- [ ] Make a script to update V1 to V2 (data)
+- [ ] prioritize features
