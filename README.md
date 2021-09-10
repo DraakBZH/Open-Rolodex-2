@@ -21,5 +21,3 @@ Open Rolodex 2 aims to bring the features of v1 in a different language and web 
 - [ ] Design Data structure
 - [ ] Make a script to update V1 to V2 (data)
 - [ ] prioritize features
-
-Need a line for demonstration
