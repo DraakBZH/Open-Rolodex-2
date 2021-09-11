@@ -3,7 +3,7 @@ Open Rolodex 2 aims to bring the features of v1 in a different language and web 
 
 ## Tasks
 ### Learning
-- [ ] Learning Git
+- [x] Learning Git
 - [ ] Learning React
 - [ ] Learning Typescript
 
